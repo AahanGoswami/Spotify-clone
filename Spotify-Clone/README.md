@@ -1,3 +1,9 @@
 # Spotify-Clone
-This is a clone of the spotify website.
-This website has been made using HTML, CSS and JavaScript. It can play 5 songs. The songs can be changed using the previous button and the next button, and the song can also be paused/played using the play-pause button. The volume bar and the progress bar are also functional, so we can play a particular part of the song and its volume can also be changed easily. Its search button is also functional. When it is pressed, a search bar appears. However, you will not be able to actually search any song with it as I don't have such a large music database. You can also like a song. When the heart button is clicked, the hollow heart changes to solid heart similar to what happens in spotify. When the songs are changed or when play/pause button is pressed, sometimes it is taking a few seconds for the icons/images to get changed when using the github link to view the website, but that's probably because of some network issue. When I run the website locally in my laptop, it runs smoothly.
+
+This is a clone of the Spotify website built using HTML, CSS, and JavaScript. It can play 5 preloaded songs, which can be navigated using the previous and next buttons. The song can also be played or paused using the play/pause button.
+
+Both the volume bar and progress bar are fully functional, allowing users to change the song volume and jump to specific parts of the track. A search button is also included — clicking it reveals a search bar. However, actual song search is not supported, as there's no large music database connected.
+
+Users can also like a song — clicking the heart button changes it from a hollow heart to a solid one, just like on Spotify.
+
+Sometimes, when using the GitHub-hosted version, there may be a slight delay in updating icons or images during play/pause or song change actions. This is likely due to network latency, as the website runs smoothly when executed locally on a laptop.
